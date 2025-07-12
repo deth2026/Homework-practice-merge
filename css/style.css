@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(172, 158, 158);
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+   
+}
+p{
+   text-align: center;
+   font-family: sans-serif;
+}
+.content{
+    background-color: rgb(240, 236, 236);
+    width: 800px;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.card{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(236, 186, 212);
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+img{
+    width:fit-content;;
+    height: 100px;
+}
+button{
+    display: flex;
+    background-color: rgb(197, 106, 190);
+    border-radius: 5px;
+    color: white;
+}
