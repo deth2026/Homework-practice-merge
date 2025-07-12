@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: darkorchid;   
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+div{
+    background-color: darkolivegreen;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    margin: 50px;
+    border-radius: 10px;
+}
+button{
+    border: 1px solid black;
+    background-color: rgb(128, 128, 194);
+
+}
+button:hover{
+    background-color: blue;
+}
